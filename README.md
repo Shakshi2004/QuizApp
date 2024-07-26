@@ -5,8 +5,8 @@ This is a simple quiz application built using HTML, CSS, and JavaScript. The qui
 
 Features
 
-15 multiple-choice questions.
-15 seconds to answer each question.
+5 multiple-choice questions.
+15 seconds to answer the questions.
 Immediate feedback on correct or incorrect answers.
 Final score display at the end of the quiz.
 Responsive design for mobile and desktop.
