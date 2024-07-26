@@ -18,6 +18,9 @@ https://github.com/Shakshi2004/QuizApp
 How to Play
 
 1.Start the quiz by clicking the "Start Quiz" button.
+
 2.Read each question and select the answer you think is correct.
+
 3.You have 15 seconds to answer each question.
+
 4.Your score will be displayed at the end of the quiz.
